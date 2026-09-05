@@ -1,2 +1,2 @@
 hello this is a test file 
-updating it to trigger the pipeline 
+updating this file to trigger the pipeline with a new commit in the repository 
