@@ -1,2 +1,3 @@
 hello this is a test file 
 updating this file to trigger the pipeline with a new commit in the repository 
+every commit triggers the pipeline with a new build - I've just pushed a new commit to my GitHub repository. My Jenkins job is configured with Poll SCM, checking for new commits every minute — so rather than a manual trigger, it'll detect this change and start the build automatically within the next minute.
